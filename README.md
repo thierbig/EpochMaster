@@ -2,9 +2,11 @@
 
 This guide provides instructions for setting up the **[Pstar Client](#pstar-client-installation)** OR **[Pstar Addons/WTF](#pstar-addonswtf-installation)** for Project Epoch, a World of Warcraft private server.
 
+Choose between both approaches depending on your needs!!!
+
 ---
 
-## [Pstar Client](#pstar-client-installation) Installation
+## [Pstar Client](#pstar-client-installation) Installation Approach
 
 Offers a fast and easy setup with features like:
 - **woltk_awesome**: Cast bars on ALL nameplates, 200-yard nameplate distance, and faster stance swapping.
@@ -66,7 +68,7 @@ Give more juice to the WoW Client
 
 ---
 
-## [Pstar Addons/WTF](#pstar-addonswtf-installation) Installation
+## [Pstar Addons/WTF](#pstar-addonswtf-installation) Installation Approach
 
 This setup provides a streamlined addon configuration without nameplate cast bars (cast bars are only shown for the currently targeted unit because of basic client).
 
