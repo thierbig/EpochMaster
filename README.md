@@ -41,6 +41,11 @@ Offers a fast and easy setup with features like:
    - Use the `Awesome CVar` addon to modify nameplate distance as needed.
    <img width="1232" height="646" alt="image" src="https://github.com/user-attachments/assets/40e30058-fc6d-462d-a15c-ba559c766a67" />
 
+9. **Change Kui Nameplates profile RECOMMENDED
+   - Go into `Interface > Addons` and do like screenshot
+   <img width="1356" height="1036" alt="image" src="https://github.com/user-attachments/assets/085c34ee-81ac-4c86-bbc2-b3a99b27adb5" />
+
+
 
 ### Optional: Borderless Window Mode RECOMMENDED
 The client opens in windowed mode (not maximized). To optimize performance and alt-tabbing:
