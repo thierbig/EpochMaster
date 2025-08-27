@@ -1,4 +1,5 @@
 # Pstar Client and Addons for Project Epoch
+![WoWScrnShot_082725_120103](https://github.com/user-attachments/assets/b71f4f9b-9250-4731-8788-f6eea4ed641e)
 
 This guide provides instructions for setting up the **[Pstar Client](#pstar-client-installation)** OR **[Pstar Addons/WTF](#pstar-addonswtf-installation)** for Project Epoch, a World of Warcraft private server.
 
@@ -15,7 +16,7 @@ Offers a fast and easy setup with features like:
 - NEVER CHANGE YOUR GRAPHICS IN-GAME EXCEPT FOR WINDOWED MODE STUFF
 
 ### Installation Steps
-1. **Download the Pstar Client** from my [Google Drive]()
+1. **Download the Pstar Client** from my [Google Drive](https://drive.google.com/file/d/1yIIAuQwKbc9_k7WxjyZsB9Z-3Qi3dwrZ/view?usp=sharing)
 2. **Backup your current setup**:
    - Locate your `epoch_live` folder (found in `Ascension Launcher/resources`).
    - Rename `epoch_live` to `epoch_live_old` to preserve your existing setup.
@@ -56,7 +57,7 @@ Enhance visuals by enabling the following:
 1. **Upright Orc models**:
    - In `epoch_live/Data`, rename `patch-O.mpq.old` to `patch-O.mpq`.
 
-### Optional: Extra quality with NVIDIA Control Panel
+### Optional: Extra quality with NVIDIA Control Panel NVIDIA GPU ONLY
 Give more juice to the WoW Client
 1. Do like the screenshots:
 <img width="953" height="737" alt="image" src="https://github.com/user-attachments/assets/2d819824-4373-4ec6-ab34-acd3ea42d8b5" />
@@ -184,3 +185,5 @@ Keep the following addons updated for the best experience:
 - **Battleground Addon**: Choose one based on your needs
 
 ---
+![WoWScrnShot_082725_121439](https://github.com/user-attachments/assets/438037a6-585f-426f-aca5-13e4338659a5)
+![WoWScrnShot_082725_120623](https://github.com/user-attachments/assets/1bec3732-457e-48df-9a24-c9f6d95cce3a)
