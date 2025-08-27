@@ -1,6 +1,6 @@
 # Pstar Client and Addons for Project Epoch
 
-This guide provides instructions for setting up the **[Pstar Client](#pstar-client-installation)** or **[Pstar Addons/WTF](#pstar-addonswtf-installation)** for Project Epoch, a World of Warcraft private server.
+This guide provides instructions for setting up the **[Pstar Client](#pstar-client-installation)** OR **[Pstar Addons/WTF](#pstar-addonswtf-installation)** for Project Epoch, a World of Warcraft private server.
 
 ---
 
