@@ -10,9 +10,10 @@ Offers a fast and easy setup with features like:
 - **woltk_awesome**: Cast bars on ALL nameplates, 200-yard nameplate distance, and faster stance swapping.
 - HD vanilla textures and improved FPS performance via DXVK. More FPS.
 - Risk: Potential ban (unlikely, but possible). I have been playing for over 10 days with it and several friends too and so far, so good.
+- NEVER CHANGE YOUR GRAPHICS IN-GAME EXCEPT FOR WINDOWED MODE STUFF
 
 ### Installation Steps
-1. **Download the Pstar Client** from the provided link.
+1. **Download the Pstar Client** from my [Google Drive]()
 2. **Backup your current setup**:
    - Locate your `epoch_live` folder (found in `Ascension Launcher/resources`).
    - Rename `epoch_live` to `epoch_live_old` to preserve your existing setup.
@@ -29,10 +30,15 @@ Offers a fast and easy setup with features like:
    - Create a desktop shortcut for `Ascension.exe` if desired.
 6. **Customize WeakAuras**:
    - Remove unwanted WeakAuras by typing `/wa` in-game and managing them.
+   - Keep those WA : <img width="511" height="175" alt="image" src="https://github.com/user-attachments/assets/b5487ed3-8caa-4dde-8c65-b26c19210345" />
 7. **Disable Blizzard's target cast bar**:
    - In-game, go to `Interface > Combat > Cast Bars` and disable the target cast bar.
+   <img width="1391" height="1081" alt="image" src="https://github.com/user-attachments/assets/a5c03103-7f11-4170-858a-c9b33276b2cf" />
+
 8. **Adjust nameplate distance**:
    - Use the `Awesome CVar` addon to modify nameplate distance as needed.
+   <img width="1232" height="646" alt="image" src="https://github.com/user-attachments/assets/40e30058-fc6d-462d-a15c-ba559c766a67" />
+
 
 ### Optional: Borderless Window Mode RECOMMENDED
 The client opens in windowed mode (not maximized). To optimize performance and alt-tabbing:
@@ -40,11 +46,23 @@ The client opens in windowed mode (not maximized). To optimize performance and a
 2. Open WoW in windowed mode (not maximized).
 3. Use NoMoreBorder to set Project Epoch to borderless mode.
 4. Configure NoMoreBorder to launch with Windows for convenience.
+<img width="403" height="424" alt="image" src="https://github.com/user-attachments/assets/280cf599-5088-41e0-8b30-c9d1a139488f" />
+
 
 ### Optional: Additional Textures NOT RECOMMENDED
 Enhance visuals by enabling the following:
 1. **Upright Orc models**:
    - In `epoch_live/Data`, rename `patch-O.mpq.old` to `patch-O.mpq`.
+
+### Optional: Extra quality with NVIDIA Control Panel
+Give more juice to the WoW Client
+1. Do like the screenshots:
+<img width="953" height="737" alt="image" src="https://github.com/user-attachments/assets/2d819824-4373-4ec6-ab34-acd3ea42d8b5" />
+<img width="935" height="709" alt="image" src="https://github.com/user-attachments/assets/85623bd1-743a-4966-8ca2-0589cbfcdffc" />
+<img width="937" height="719" alt="image" src="https://github.com/user-attachments/assets/6256bd75-275b-41d2-b3bb-92bcca8809aa" />
+
+
+
 
 ---
 
@@ -53,7 +71,7 @@ Enhance visuals by enabling the following:
 This setup provides a streamlined addon configuration without nameplate cast bars (cast bars are only shown for the currently targeted unit because of basic client).
 
 ### Installation Steps
-1. **Download the Pstar Addons/WTF** from the provided link.
+1. **Download the Pstar Addons/WTF** from my [Google Drive](https://drive.google.com/file/d/1c5o79NENqooCob1d9rHNJIKz8ihdbRGg/view?usp=sharing)
 2. **Replace the Addons folder**:
    - Navigate to `epoch_live` (in `Ascension Launcher/resources`).
    - Go to `epoch_live/Interface` and delete the existing `Addons` folder.
@@ -68,8 +86,12 @@ This setup provides a streamlined addon configuration without nameplate cast bar
    - Inside the renamed account folder, open the `Gurubashi` folder and rename `CharacterName` to your character's name.
 6. **Customize WeakAuras**:
    - Remove unwanted WeakAuras by typing `/wa` in-game and managing them.
+   - Keep those WA : <img width="511" height="175" alt="image" src="https://github.com/user-attachments/assets/b5487ed3-8caa-4dde-8c65-b26c19210345" />
 7. **Disable Blizzard's target cast bar**:
    - In-game, go to `Interface > Combat > Cast Bars` and disable the target cast bar.
+   <img width="1391" height="1081" alt="image" src="https://github.com/user-attachments/assets/a5c03103-7f11-4170-858a-c9b33276b2cf" />
+8 **Activate castbars in KuiNamePlates since you are not using my patched client**
+   - Figure it out
 
 ---
 
@@ -154,7 +176,9 @@ Keep the following addons updated for the best experience:
 - **AtlasLoot**: [https://github.com/Raynbock/AtlaslootProjectEpoch](https://github.com/Raynbock/AtlaslootProjectEpoch)
 
 ### Recommended Additional Addons
-- **Gladius**: For arena gameplay.
-- **Battleground Addon**: Choose one based on your needs.
+- **Gladdy**: For arena gameplay : [https://gitlab.com/Tsoukie/gladdy-3.3.5](https://gitlab.com/Tsoukie/gladdy-3.3.5)
+- **Omnibar**: Track enemy cds : [https://gitlab.com/Tsoukie/omnibar-3.3.5](https://gitlab.com/Tsoukie/omnibar-3.3.5)
+- **TskoukiePartyTracker**: Omnibar for allies in Party : [https://gitlab.com/Tsoukie/tsoukiepartytracker](https://gitlab.com/Tsoukie/tsoukiepartytracker)
+- **Battleground Addon**: Choose one based on your needs
 
 ---
