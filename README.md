@@ -4,9 +4,9 @@ This guide provides instructions for setting up the **[Pstar Client](#pstar-clie
 
 ---
 
-## Pstar Client Installation
+## [Pstar Client](#pstar-client-installation) Installation
 
-The [Pstar Client](#pstar-client-installation) offers a fast and easy setup with features like:
+Offers a fast and easy setup with features like:
 - **woltk_awesome**: Cast bars on ALL nameplates, 200-yard nameplate distance, and faster stance swapping.
 - HD vanilla textures and improved FPS performance via DXVK. More FPS.
 - Risk: Potential ban (unlikely, but possible). I have been playing for over 10 days with it and several friends too and so far, so good.
@@ -36,7 +36,7 @@ The [Pstar Client](#pstar-client-installation) offers a fast and easy setup with
 
 ### Optional: Borderless Window Mode RECOMMENDED
 The client opens in windowed mode (not maximized). To optimize performance and alt-tabbing:
-1. Download **NoMoreBorder** from [GitHub](https://github.com/invcble/NoMoreBorder/releases).
+1. Download [**NoMoreBorder**](https://github.com/invcble/NoMoreBorder/releases).
 2. Open WoW in windowed mode (not maximized).
 3. Use NoMoreBorder to set Project Epoch to borderless mode.
 4. Configure NoMoreBorder to launch with Windows for convenience.
@@ -50,7 +50,7 @@ Enhance visuals by enabling the following:
 
 ---
 
-## Pstar Addons/WTF Installation
+## [Pstar Addons/WTF](#pstar-addonswtf-installation) Installation
 
 This setup provides a streamlined addon configuration without nameplate cast bars (cast bars are only shown for the currently targeted unit because of basic client).
 
