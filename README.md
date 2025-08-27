@@ -43,9 +43,7 @@ The client opens in windowed mode (not maximized). To optimize performance and a
 
 ### Optional: Additional Textures NOT RECOMMENDED
 Enhance visuals by enabling the following:
-1. **Improved spell textures**:
-   - In `epoch_live/Data`, rename `patch-7.mpq.old` to `patch-7.mpq`.
-2. **Upright Orc models**:
+1. **Upright Orc models**:
    - In `epoch_live/Data`, rename `patch-O.mpq.old` to `patch-O.mpq`.
 
 ---
