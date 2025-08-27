@@ -8,7 +8,7 @@ This guide provides instructions for setting up the **[Pstar Client](#pstar-clie
 
 Offers a fast and easy setup with features like:
 - **woltk_awesome**: Cast bars on ALL nameplates, 200-yard nameplate distance, and faster stance swapping.
-- HD vanilla textures and improved FPS performance via DXVK. More FPS.
+- HD vanilla textures and improved FPS performance via DXVK. Better looking, more fluid.
 - Risk: Potential ban (unlikely, but possible). I have been playing for over 10 days with it and several friends too and so far, so good.
 - NEVER CHANGE YOUR GRAPHICS IN-GAME EXCEPT FOR WINDOWED MODE STUFF
 
