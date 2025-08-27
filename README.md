@@ -1,6 +1,6 @@
 # Pstar Client and Addons for Project Epoch
 
-This guide provides instructions for setting up the **[Pstar Client](#pstar-client-installation)** or **[Pstar Addons/WTF](#pstar-addonswtf-installation)** for Project Epoch, a World of Warcraft private server. The [Pstar Client](#pstar-client-installation) approach is recommended for its optimized experience, including enhanced visuals, performance, and features like cast bars on all nameplates and extended nameplate distance. Note that while these modifications are generally allowed on most private servers, there is a potential risk of bans—use at your discretion. I have been playing for over 10 days with it and several friends too and so far, so good.
+This guide provides instructions for setting up the **[Pstar Client](#pstar-client-installation)** or **[Pstar Addons/WTF](#pstar-addonswtf-installation)** for Project Epoch, a World of Warcraft private server.
 
 ---
 
@@ -8,8 +8,8 @@ This guide provides instructions for setting up the **[Pstar Client](#pstar-clie
 
 The [Pstar Client](#pstar-client-installation) offers a fast and easy setup with features like:
 - **woltk_awesome**: Cast bars on ALL nameplates, 200-yard nameplate distance, and faster stance swapping.
-- HD vanilla textures and improved FPS performance via DXVK.
-- Risk: Potential ban (unlikely, but possible).
+- HD vanilla textures and improved FPS performance via DXVK. More FPS.
+- Risk: Potential ban (unlikely, but possible). I have been playing for over 10 days with it and several friends too and so far, so good.
 
 ### Installation Steps
 1. **Download the Pstar Client** from the provided link.
