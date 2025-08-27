@@ -33,7 +33,6 @@ Offers a fast and easy setup with features like:
    - Create a desktop shortcut for `Ascension.exe` if desired.
 6. **Customize WeakAuras**:
    - Remove unwanted WeakAuras by typing `/wa` in-game and managing them.
-   - Keep those WA : <img width="511" height="175" alt="image" src="https://github.com/user-attachments/assets/b5487ed3-8caa-4dde-8c65-b26c19210345" />
 7. **Disable Blizzard's target cast bar**:
    - In-game, go to `Interface > Combat > Cast Bars` and disable the target cast bar.
    <img width="1391" height="1081" alt="image" src="https://github.com/user-attachments/assets/a5c03103-7f11-4170-858a-c9b33276b2cf" />
@@ -89,7 +88,6 @@ This setup provides a streamlined addon configuration without nameplate cast bar
    - Inside the renamed account folder, open the `Gurubashi` folder and rename `CharacterName` to your character's name.
 6. **Customize WeakAuras**:
    - Remove unwanted WeakAuras by typing `/wa` in-game and managing them.
-   - Keep those WA : <img width="511" height="175" alt="image" src="https://github.com/user-attachments/assets/b5487ed3-8caa-4dde-8c65-b26c19210345" />
 7. **Disable Blizzard's target cast bar**:
    - In-game, go to `Interface > Combat > Cast Bars` and disable the target cast bar.
    <img width="1391" height="1081" alt="image" src="https://github.com/user-attachments/assets/a5c03103-7f11-4170-858a-c9b33276b2cf" />
