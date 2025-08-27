@@ -1,12 +1,12 @@
 # Pstar Client and Addons for Project Epoch
 
-This guide provides instructions for setting up the **Pstar Client** or **Pstar Addons/WTF** for Project Epoch, a World of Warcraft private server. The Pstar Client approach is recommended for its optimized experience, including enhanced visuals, performance, and features like cast bars on all nameplates and extended nameplate distance. Note that while these modifications are generally allowed on most private servers, there is a potential risk of bans—use at your discretion. I have been playing for over 10 days with it and several friends too and so far, so good.
+This guide provides instructions for setting up the **[Pstar Client](#pstar-client-installation)** or **[Pstar Addons/WTF](#pstar-addonswtf-installation)** for Project Epoch, a World of Warcraft private server. The [Pstar Client](#pstar-client-installation) approach is recommended for its optimized experience, including enhanced visuals, performance, and features like cast bars on all nameplates and extended nameplate distance. Note that while these modifications are generally allowed on most private servers, there is a potential risk of bans—use at your discretion. I have been playing for over 10 days with it and several friends too and so far, so good.
 
 ---
 
 ## Pstar Client Installation
 
-The Pstar Client offers a fast and easy setup with features like:
+The [Pstar Client](#pstar-client-installation) offers a fast and easy setup with features like:
 - **woltk_awesome**: Cast bars on ALL nameplates, 200-yard nameplate distance, and faster stance swapping.
 - HD vanilla textures and improved FPS performance via DXVK.
 - Risk: Potential ban (unlikely, but possible).
@@ -41,7 +41,7 @@ The client opens in windowed mode (not maximized). To optimize performance and a
 3. Use NoMoreBorder to set Project Epoch to borderless mode.
 4. Configure NoMoreBorder to launch with Windows for convenience.
 
-### Optional: Additional Textures NOT RECOMMNDED
+### Optional: Additional Textures NOT RECOMMENDED
 Enhance visuals by enabling the following:
 1. **Improved spell textures**:
    - In `epoch_live/Data`, rename `patch-7.mpq.old` to `patch-7.mpq`.
@@ -76,8 +76,8 @@ This setup provides a streamlined addon configuration without nameplate cast bar
 ---
 
 ## Included Addons
-The following addons are included in both setups (latest versions for Project Epoch, some with custom bug fixes):
 
+The following addons are included in both setups (latest versions for Project Epoch, some with custom bug fixes):
 - !!ClassicAPI
 - AbbreviatedStatus
 - Accountant
