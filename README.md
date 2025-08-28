@@ -16,7 +16,7 @@ Offers a fast and easy setup with features like:
 - NEVER CHANGE YOUR GRAPHICS IN-GAME EXCEPT FOR WINDOWED MODE STUFF
 
 ### Installation Steps
-1. **Download the Pstar Client** from my [Google Drive](https://drive.google.com/file/d/1yIIAuQwKbc9_k7WxjyZsB9Z-3Qi3dwrZ/view?usp=sharing)
+1. **Download the Pstar Client** from my [Google Drive](https://drive.google.com/file/d/1BTXQm8XSJ3TD2VBnMIYlByxMj6DNEdBW/view?usp=sharing)
 2. **Backup your current setup**:
    - Locate your `epoch_live` folder (found in `Ascension Launcher/resources`).
    - Rename `epoch_live` to `epoch_live_old` to preserve your existing setup.
@@ -78,7 +78,7 @@ Give more juice to the WoW Client
 This setup provides a streamlined addon configuration without nameplate cast bars (cast bars are only shown for the currently targeted unit because of basic client).
 
 ### Installation Steps
-1. **Download the Pstar Addons/WTF** from my [Google Drive](https://drive.google.com/file/d/1c5o79NENqooCob1d9rHNJIKz8ihdbRGg/view?usp=sharing)
+1. **Download the Pstar Addons/WTF** from my [Google Drive](https://drive.google.com/file/d/1P7o9GrJEXdIlXHn8zxd-jUV-D9-KX8aT/view?usp=sharing)
 2. **Replace the Addons folder**:
    - Navigate to `epoch_live` (in `Ascension Launcher/resources`).
    - Go to `epoch_live/Interface` and delete the existing `Addons` folder.
