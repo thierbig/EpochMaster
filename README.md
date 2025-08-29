@@ -14,7 +14,7 @@ Offers a fast and easy setup with features like:
 - HD vanilla textures and improved FPS performance via DXVK. Better looking, more fluid.
 - Risk: Potential ban (unlikely, but possible). I have been playing for over 10 days with it and several friends too and so far, so good.
 - NEVER CHANGE YOUR GRAPHICS IN-GAME EXCEPT FOR WINDOWED MODE STUFF
-- NEVER UPDATE YOUR GAME VIA THE ASCENSION LAUNCHER OR THE NAMEPLATES CASTING AND 200 YARD DISTANCE WILL DISAPPEAR
+- NEVER UPDATE YOUR GAME VIA THE ASCENSION LAUNCHER: THE NAMEPLATES CASTING AND 200 YARD DISTANCE WILL DISAPPEAR
 
 ### Installation Steps
 1. **Download the Pstar Client** from my [Google Drive](https://drive.google.com/file/d/1SwLxVS8g1iXTUlNUK3Tsdy13YTM5QkQL/view?usp=sharing)
