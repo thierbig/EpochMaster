@@ -14,9 +14,10 @@ Offers a fast and easy setup with features like:
 - HD vanilla textures and improved FPS performance via DXVK. Better looking, more fluid.
 - Risk: Potential ban (unlikely, but possible). I have been playing for over 10 days with it and several friends too and so far, so good.
 - NEVER CHANGE YOUR GRAPHICS IN-GAME EXCEPT FOR WINDOWED MODE STUFF
+- NEVER UPDATE YOUR GAME VIA THE ASCENSION LAUNCHER OR THE NAMEPLATES CASTING AND 200 YARD DISTANCE WILL DISAPPEAR
 
 ### Installation Steps
-1. **Download the Pstar Client** from my [Google Drive](https://drive.google.com/file/d/1BTXQm8XSJ3TD2VBnMIYlByxMj6DNEdBW/view?usp=sharing)
+1. **Download the Pstar Client** from my [Google Drive](https://drive.google.com/file/d/1SwLxVS8g1iXTUlNUK3Tsdy13YTM5QkQL/view?usp=sharing)
 2. **Backup your current setup**:
    - Locate your `epoch_live` folder (found in `Ascension Launcher/resources`).
    - Rename `epoch_live` to `epoch_live_old` to preserve your existing setup.
@@ -44,6 +45,7 @@ Offers a fast and easy setup with features like:
 9. **Change Kui Nameplates profile RECOMMENDED
    - Go into `Interface > Addons` and do like screenshot
    <img width="1356" height="1036" alt="image" src="https://github.com/user-attachments/assets/085c34ee-81ac-4c86-bbc2-b3a99b27adb5" />
+   - Do /reload after changing
 
 
 
@@ -78,7 +80,7 @@ Give more juice to the WoW Client
 This setup provides a streamlined addon configuration without nameplate cast bars (cast bars are only shown for the currently targeted unit because of basic client).
 
 ### Installation Steps
-1. **Download the Pstar Addons/WTF** from my [Google Drive](https://drive.google.com/file/d/1P7o9GrJEXdIlXHn8zxd-jUV-D9-KX8aT/view?usp=sharing)
+1. **Download the Pstar Addons/WTF** from my [Google Drive](https://drive.google.com/file/d/1vvGNk32zhuT-JKafxPo8zrBNtdY0cE51/view?usp=sharing)
 2. **Replace the Addons folder**:
    - Navigate to `epoch_live` (in `Ascension Launcher/resources`).
    - Go to `epoch_live/Interface` and delete the existing `Addons` folder.
@@ -96,6 +98,7 @@ This setup provides a streamlined addon configuration without nameplate cast bar
 7. **Disable Blizzard's target cast bar**:
    - In-game, go to `Interface > Combat > Cast Bars` and disable the target cast bar.
    <img width="1391" height="1081" alt="image" src="https://github.com/user-attachments/assets/a5c03103-7f11-4170-858a-c9b33276b2cf" />
+   - Do /reload after changing
 8 **Activate castbars in KuiNamePlates since you are not using my patched client**
    - Figure it out
 
